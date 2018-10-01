@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">HouseRent</string>
+
+    <string-array name="HouseType">
+        <item>Family</item>
+        <item>Bachelor</item>
+    </string-array>
+
+//House Details//
+    <string-array name="no_of_bed">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="no_of_drawingRoom">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="no_of_dinning">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="no_of_kitchen">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="no_of_BathRoom">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
